@@ -1,0 +1,3 @@
+rootProject.name = 'ReasonPoC'
+
+include ':app'
