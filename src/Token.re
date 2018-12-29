@@ -30,7 +30,7 @@ module Styles = {
     style([
       color(String("#fff")),
       fontSize(Float(24.)),
-      margin(Pt(10.))
+      margin(Pt(15.))
     ]);
 };
 
@@ -55,7 +55,7 @@ module Token = {
       <View style=Styles.container>
 	<Button
 	  color="#00BB72"
-	  title="Generate Toke"
+	  title="new Token"
 	  onPress=(() => send(GenerateToken))
 	/>
         <Text style=Styles.text>
