@@ -1,16 +1,16 @@
 # ninja log v5
-0	62	1545957725	src/Token.mlast	ba86ad9f499ba292
+0	66	1546045908	src/Token.mlast	ba86ad9f499ba292
 0	68	1545957166	src/Main.mlast	781c6d12ee9696c3
-43	73	1545957725	src/App.cmj	bf87829a60968f75
-78	90	1545957378	src/App.mlast.d	e83034e5eb767fb8
+47	76	1546045908	src/App.cmj	bf87829a60968f75
+0	15	1546043175	src/App.mlast.d	e83034e5eb767fb8
 0	40	1545957166	/home/enieber/project/zen/zen-token/ReasonPoC/lib/js/src/Main.js	9093495f0d73d34
-43	73	1545957725	/home/enieber/project/zen/zen-token/ReasonPoC/lib/js/src/App.js	bf87829a60968f75
-43	73	1545957725	src/App.cmi	bf87829a60968f75
-63	74	1545957725	src/Token.mlast.d	d283aa5e6840c7cc
-0	42	1545957725	src/Token.cmi	60c6e7e1d2cb75dc
-0	78	1545957378	src/App.mlast	1c70df7799529bad
-0	42	1545957725	/home/enieber/project/zen/zen-token/ReasonPoC/lib/js/src/Token.js	60c6e7e1d2cb75dc
-0	40	1545957166	src/Main.cmj	9093495f0d73d34
+47	76	1546045908	/home/enieber/project/zen/zen-token/ReasonPoC/lib/js/src/App.js	bf87829a60968f75
+47	76	1546045908	src/App.cmi	bf87829a60968f75
+66	79	1546045908	src/Token.mlast.d	d283aa5e6840c7cc
+0	60	1546043150	src/App.mlast	1c70df7799529bad
+0	47	1546045908	src/Token.cmi	60c6e7e1d2cb75dc
 0	40	1545957166	src/Main.cmi	9093495f0d73d34
-0	42	1545957725	src/Token.cmj	60c6e7e1d2cb75dc
+0	40	1545957166	src/Main.cmj	9093495f0d73d34
+0	47	1546045908	/home/enieber/project/zen/zen-token/ReasonPoC/lib/js/src/Token.js	60c6e7e1d2cb75dc
+0	47	1546045908	src/Token.cmj	60c6e7e1d2cb75dc
 69	81	1545957166	src/Main.mlast.d	c9a6f68e94ae04de

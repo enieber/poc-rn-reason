@@ -1,1 +1,1 @@
-src/App.cmj : src/Main.cmj src/Token.cmj
+src/App.cmj : src/Token.cmj
